@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.0.3](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.2...v0.0.3) (2023-01-05)
+
+
+### 👷‍ Build System | 构建
+
+* 更改@types/node为生产时依赖 ([55e7313](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/55e73139ef7cb940da1681fe3bcf2d5c396f8a94))
+
 ### [0.0.2](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.1...v0.0.2) (2023-01-05)
 
 
