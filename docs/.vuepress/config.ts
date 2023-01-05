@@ -1,5 +1,6 @@
 import { defineUserConfig } from 'vuepress';
-import { ohmylive2dPlugin } from 'vuepress-plugin-oh-my-live2d';
+import { ohmylive2dPlugin } from '../../src/index';
+
 export default defineUserConfig({
   plugins: [ohmylive2dPlugin()]
 });
