@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.0.5](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.4...v0.0.5) (2023-01-05)
+
+
+### 👷‍ Build System | 构建
+
+* 更新oh-my-live2d依赖包 ([3eddd55](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/3eddd553c2c40bd6852ba1d8b24606ca5787d105))
+
 ### [0.0.4](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.3...v0.0.4) (2023-01-05)
 
 
