@@ -14,9 +14,11 @@ specifiers:
   typescript: ^4.9.4
   vue: ^3.2.45
   vuepress: 2.0.0-beta.60
+  vuepress-plugin-oh-my-live2d: ^0.0.5
 
 dependencies:
   oh-my-live2d: 0.0.14
+  vuepress-plugin-oh-my-live2d: 0.0.5
 
 devDependencies:
   '@release-it/conventional-changelog': 5.1.1_release-it@15.6.0
@@ -4911,6 +4913,12 @@ packages:
       '@vue/server-renderer': 3.2.45_vue@3.2.45
       '@vue/shared': 3.2.45
     dev: true
+
+  /vuepress-plugin-oh-my-live2d/0.0.5:
+    resolution: {integrity: sha512-QIavedqB2hmWjOdyFfOS6tvREymh+EFXHL6U58J5f8ruKSkMlOMIScn1PaLu2qzptAZpQpTJcmveI6T3/ZLWiw==}
+    dependencies:
+      oh-my-live2d: 0.0.14
+    dev: false
 
   /vuepress-vite/2.0.0-beta.60_7ubnrnoqbp6xeamtq67t3yhzpm:
     resolution: {integrity: sha512-ljHvo419nbfYl/cQecVbYL4bwJjUOX0+z76v/4yX6ODeGIpdHIs7ARZ4t52mr0EEfwP6aZbZa+qFZTTQutxAuQ==}
