@@ -14,7 +14,7 @@
 
 应用于 `blog` 的示例：https://www.tj520.top
 
-![](https://loclink-1259720482.cos.ap-beijing.myqcloud.com/image/20230105220236.png)
+![](https://loclink-1259720482.cos.ap-beijing.myqcloud.com/image/20230105224414.png)
 
 ## 开始：
 
