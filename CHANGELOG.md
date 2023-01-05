@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.0.4](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.3...v0.0.4) (2023-01-05)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修复esm使用__dirname报错的问题 ([d855d7b](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/d855d7b707e6297b7a6f34d2f0e5dc345acf109e))
+
 ### [0.0.3](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.2...v0.0.3) (2023-01-05)
 
 
