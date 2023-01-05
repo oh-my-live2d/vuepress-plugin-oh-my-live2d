@@ -1,6 +1,7 @@
 {
   "name": "vuepress-plugin-oh-my-live2d",
   "version": "0.0.1",
+  "type": "module",
   "files": [
     "src",
     "index.d.ts"
