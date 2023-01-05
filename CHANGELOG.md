@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.0.7](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.6...v0.0.7) (2023-01-05)
+
+
+### 📦 Chores | 其他更新
+
+* 修改导入路径 ([babb253](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/babb2530cf2371a84cf6d771fbada2aff101ffbd))
+
 ### [0.0.6](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.5...v0.0.6) (2023-01-05)
 
 
