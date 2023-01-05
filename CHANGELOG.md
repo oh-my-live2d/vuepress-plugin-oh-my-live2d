@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.0.6](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.5...v0.0.6) (2023-01-05)
+
+
+### 👷‍ Build System | 构建
+
+* 修改导入方式由esm改cjs ([512f5b1](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/512f5b1e080eaf0fa99c42a1186bc3bc2f338ebd))
+
 ### [0.0.5](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.4...v0.0.5) (2023-01-05)
 
 
