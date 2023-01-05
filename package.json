@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "oh-my-live2d": "^0.0.14",
-    "vuepress-plugin-oh-my-live2d": "^0.0.5"
+    "vuepress-plugin-oh-my-live2d": "^0.0.6"
   }
 }
