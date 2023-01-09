@@ -1,6 +1,6 @@
 # vuepress-plugin-oh-my-live2d
 
-![](https://img.shields.io/badge/version-0.0.9-blue) ![](https://img.shields.io/badge/vuepress2-plugin-green) ![](https://img.shields.io/badge/oh--my--live2d-v0.0.16-orange) ![](https://img.shields.io/badge/cubism-2%2F3%2F4-orange)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/oh-my-live2d/vuepress-plugin-oh-my-live2d) ![](https://img.shields.io/badge/vuepress2-plugin-green) ![GitHub package.json version](https://img.shields.io/github/package-json/v/oh-my-live2d/oh-my-live2d?label=oh-my-live2d) ![](https://img.shields.io/badge/cubism-2%2F3%2F4-orange)
 
 `vuepress-plugin-oh-my-live2d` 是一个用于 `vuepress 2` 的 `live2d` 看板娘插件，基于 [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) 开发，并与之同步更新。
 
@@ -69,16 +69,35 @@ import { ohmylive2dPlugin } from 'vuepress-plugin-oh-my-live2d';
 export default defineUserConfig({
   plugins: [
     ohmylive2dPlugin({
-      size: 400,
-      x: 1,
-      y: 1
+      modelSource: 'https://oml-api.tj520.top/model/get?model_id=1&textures_id=2',
+      modelPosition: [0, 0],
+      sayHello: true,
+      transitionTime: 1000,
+      stage: {
+        backgroundColor: 'rgba(0, 0, 0, 0)',
+        xs: {
+          // 屏幕 < 768px
+          scale: 0.5,
+          size: 140
+        },
+        md: {
+          // 屏幕 >= 768px 且 > 1200px
+          scale: 0.7,
+          size: 196
+        },
+        xl: {
+          // 屏幕 >= 1200px
+          scale: 1,
+          size: 280
+        }
+      }
+      // ...more
     })
   ]
-  //  ...more
 });
 ```
 
-有关配置属性说明请查看[配置属性](#配置属性说明)
+有关配置属性说明请查看[配置属性说明](#配置属性说明)
 
 ## 配置属性说明：
 
