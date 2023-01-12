@@ -14,7 +14,7 @@
 
 应用于 `blog` 的示例：https://www.tj520.top
 
-![](https://loclink-1259720482.cos.ap-beijing.myqcloud.com/image/20230105224414.png)
+![](https://loclink-1259720482.cos.ap-beijing.myqcloud.com/image/202301122255860.png)
 
 ## 开始：
 
@@ -70,6 +70,9 @@ export default defineUserConfig({
 ## 关于：
 
 本项目不提供任何模型的下载地址，如有需要请自行寻找。
+
+### 讨论：
+- Q群：474032914
 
 ## 许可证书：
 

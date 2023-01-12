@@ -9,7 +9,7 @@ specifiers:
   dotenv-cli: ^6.0.0
   eslint: ^8.31.0
   eslint-plugin-vue: ^9.8.0
-  oh-my-live2d: ^0.0.18
+  oh-my-live2d: ^0.0.19
   release-it: ^15.6.0
   rimraf: ^3.0.2
   typescript: ^4.9.4
@@ -17,7 +17,7 @@ specifiers:
   vuepress: 2.0.0-beta.60
 
 dependencies:
-  oh-my-live2d: 0.0.18
+  oh-my-live2d: 0.0.19
 
 devDependencies:
   '@release-it/conventional-changelog': 5.1.1_release-it@15.6.0
@@ -3660,8 +3660,8 @@ packages:
       object-keys: 1.1.1
     dev: true
 
-  /oh-my-live2d/0.0.18:
-    resolution: {integrity: sha512-Zvb90yRddM9HfKzHbuM33Kr/UiAPKuNjroCyKX4LhsfaOAB7Ws2UTrtHmBGmD3panQsyeyqGDgCG9o6E5bk1QQ==}
+  /oh-my-live2d/0.0.19:
+    resolution: {integrity: sha512-m3tBeXOju5foFna0iCe39F28Dn8JffcTFYfBU/zlOZnlVlMj8PlyJ+vmRvOx+kOLNO5+WOrqYqsdbFDNKa1DYw==}
     dev: false
 
   /once/1.4.0:
