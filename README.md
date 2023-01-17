@@ -56,23 +56,24 @@ import { ohmylive2dPlugin } from 'vuepress-plugin-oh-my-live2d';
 export default defineUserConfig({
   plugins: [
     ohmylive2dPlugin({
-      // ...config
+      // 在这里进行配置
     })
   ]
   //  ...more
 });
 ```
 
-### 自定义配置
+## 自定义配置
 
-- 请参考：[oh-my-live2d 配置属性说明](https://github.com/oh-my-live2d/oh-my-live2d#%E9%85%8D%E7%BD%AE%E5%B1%9E%E6%80%A7%E8%AF%B4%E6%98%8E)
+- 请参考：[oh-my-live2d 配置](https://oh-my-live2d.netlify.app/configure/)
 
 ## 关于：
 
 本项目不提供任何模型的下载地址，如有需要请自行寻找。
 
 ### 讨论：
-- Q群：474032914
+
+- Q 群：474032914
 
 ## 许可证书：
 

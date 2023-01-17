@@ -1,1 +1,1 @@
-declare const omlConfig: any;
+declare const omlOptions: any;
