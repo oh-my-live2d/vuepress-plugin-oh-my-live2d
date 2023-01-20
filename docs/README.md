@@ -14,9 +14,6 @@ const foo = 'aaaa';
 <script lang='ts' setup>
 
 
-  window.addEventListener('copy', () => {
-    console.log('22222222222')
-  });
 
 //   import { getCurrentInstance } from 'vue';
 //   const { appContext } = getCurrentInstance();
