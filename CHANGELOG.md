@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.0.15](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.14...v0.0.15) (2023-01-20)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* fix Hydration completed but contains mismatches. ([f3acdda](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/f3acddab883c24bdbadfeb85d5c4af25262d2406))
+
 ### [0.0.14](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.13...v0.0.14) (2023-01-20)
 
 
