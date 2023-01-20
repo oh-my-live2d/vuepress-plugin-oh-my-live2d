@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.0.14](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.13...v0.0.14) (2023-01-20)
+
+
+### ✨ Features | 新功能
+
+* 同步更新至0.0.21 ([7eb695a](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/7eb695a62e0f91d0cb71ecb3651910ad0108630e))
+
 ### [0.0.13](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.0.12...v0.0.13) (2023-01-17)
 
 
