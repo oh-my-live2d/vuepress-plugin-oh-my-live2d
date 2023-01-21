@@ -4,6 +4,8 @@
 
 `vuepress-plugin-oh-my-live2d` 是一个用于 `vuepress 2` 的 `live2d` 看板娘插件，基于 [oh-my-live2d](https://github.com/oh-my-live2d/oh-my-live2d) 开发，并与之同步更新。
 
+查阅文档：[文档](https://plugin-oh-my-live2d.netlify.app)
+
 ## 特征：
 
 - 完全集成 `cubism2`、`cubism4` ，支持所有版本的 `live2d model`。
