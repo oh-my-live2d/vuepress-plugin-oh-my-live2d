@@ -28,7 +28,8 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "release": "release-it --ci"
+    "release": "release-it --ci",
+    "release:local": "dotenv release-it"
   },
   "devDependencies": {
     "@release-it/conventional-changelog": "^5.1.1",
