@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.1.0...v0.3.0) (2023-02-06)
+
+
+### ✨ Features | 新功能
+
+* update oh-my-live2d to v0.1.1 ([17e42ad](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/17e42adaf1fa8fbbe70960c83b5d26ce3639b352))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* windows运行项目时路径错误bug ([2aa263b](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/2aa263b770fe0656dd100905c0b6d7f1553be058))
+
 ## 0.2.0 (2023-02-03)
 
 
