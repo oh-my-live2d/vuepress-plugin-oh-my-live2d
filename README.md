@@ -14,9 +14,12 @@
 
 ## 示例：
 
-应用示例：https://loclink.cn
+一些应用示例：
+ - https://loclink.cn
+ - https://oml2d.com
+ - https://vuepress.oml2d.com
 
-![](https://raw.githubusercontent.com/mihu915/picgo-images/master/images202302080209731.gif)
+![](https://raw.githubusercontent.com/mihu915/picgo-images/master/images202302080219383.gif)
 
 ## 开始：
 
