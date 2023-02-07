@@ -9,16 +9,12 @@ specifiers:
   dotenv-cli: ^6.0.0
   eslint: ^8.31.0
   eslint-plugin-vue: ^9.8.0
-  oh-my-live2d: ^0.1.0
   release-it: ^15.6.0
   rimraf: ^3.0.2
   typescript: ^4.9.4
   vue: ^3.2.45
   vuepress: 2.0.0-beta.60
   vuepress-plugin-copy-code2: 2.0.0-beta.163
-
-dependencies:
-  oh-my-live2d: 0.1.0
 
 devDependencies:
   '@release-it/conventional-changelog': 5.1.1_release-it@15.6.0
@@ -3422,10 +3418,6 @@ packages:
       p-locate: 5.0.0
     dev: true
 
-  /lodash-es/4.17.21:
-    resolution: {integrity: sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==}
-    dev: false
-
   /lodash.ismatch/4.4.0:
     resolution: {integrity: sha512-fPMfXjGQEV9Xsq/8MTSgUf255gawYRbjwMyDbcvDhXgV7enSZA0hynz6vMPnpAb5iONEzBHBPsT+0zes5Z301g==}
     dev: true
@@ -3757,12 +3749,6 @@ packages:
       has-symbols: 1.0.3
       object-keys: 1.1.1
     dev: true
-
-  /oh-my-live2d/0.1.0:
-    resolution: {integrity: sha512-MOAe2h7RDhXU4bn3Wym9MhkZP9LLJ74T5jbyv5M8qwMfyl/CXSjUkcXYxmWOsizxHCJp5T1rqL+RKB8AzoXNuA==}
-    dependencies:
-      lodash-es: 4.17.21
-    dev: false
 
   /once/1.4.0:
     resolution: {integrity: sha512-lNaJgI+2Q5URQBkccEKHTQOPaXdUxnZZElQTZY0MFUAuaEqe1E+Nyvgdz/aIyNi6Z9MzO5dv1H8n58/GELp3+w==}
