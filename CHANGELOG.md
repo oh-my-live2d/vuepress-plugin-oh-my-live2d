@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.0 (2023-02-13)
+
+
+### ✨ Features | 新功能
+
+* update oh-my-live2d to v0.2.2 ([33866f5](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/commit/33866f5e5db9a981f7474ca30875a361934cafc3))
+
 ## [0.4.0](https://github.com/oh-my-live2d/vuepress-plugin-oh-my-live2d/compare/v0.3.0...v0.4.0) (2023-02-07)
 
 
